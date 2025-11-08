@@ -76,9 +76,11 @@ To package your application for distribution:
   npm run dist:mac
   ```
 - **For Linux:**
-  `sh
-npm run dist:linux
-`
+
+  ```sh
+  npm run dist:linux
+  ```
+
   The packaged files will be located in the `dist-electron` directory.
 
 ## 📂 Project Structure
