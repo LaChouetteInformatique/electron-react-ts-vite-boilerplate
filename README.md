@@ -55,11 +55,13 @@ Providing this comprehensive file to an AI gives it a complete overview of the a
 ### Usage
 
 1.  **Generate the context file:**
-    ````sh
+
+    ```sh
     npm run concat
-    ```2.  **Use the output:**
+    ```
+
+2.  **Use the output:**
     Open the generated `PROJECT_CONTEXT.md` file located in the project's `/build` directory, copy its entire content, and paste it at the beginning of your conversation with the AI.
-    ````
 
 ## 📦 Build Scripts
 
